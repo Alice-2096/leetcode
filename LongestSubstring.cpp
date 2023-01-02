@@ -7,7 +7,6 @@ class Solution
 public:
     int lengthOfLongestSubstring(string s)
     {
-
         // iterate through s until the remaining substring.length() <= current longest string length
 
         int _max = 0;
